@@ -1,4 +1,4 @@
-# Library-API
+# Library API
 
 Github repository link - https://github.com/Prometheus7-creator/library-api
 
