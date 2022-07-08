@@ -16,13 +16,13 @@ OUTPUT - list of all the books with that name or term in the book name
 
     /search/range/<price_range>
 
-INPUT - rent price range
+INPUT - rent price range (eg. 10-30)
 
 OUTPUT - list of books with rent in that range
 
     /search/<category>/<book>
 
-INPUT - category + name/term + rent per day(range)
+INPUT - category + name
 
 OUTPUT - list of books with matching values as in input
 
